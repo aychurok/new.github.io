@@ -1,0 +1,23 @@
+	
+	body {
+		background-color: lightyellow;
+	}
+	header{
+		background-image:url('../img/worldcity.jpg');
+		color:black;
+		font-size:30px;
+		padding: 30px;
+		text-align:center;
+	}
+	
+	img.left{
+		width: 275px;
+		float: left;
+		border: 1px solid;
+	}
+	
+	img.right{
+		width: 200px;
+		float: right;
+	}
+		
